@@ -13,6 +13,8 @@ mailing list are forwarded to an [observer mailing list] which anyone can
 join.
 
 ## Implementations
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanatolyza%2Fjavax-inject.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanatolyza%2Fjavax-inject?ref=badge_shield)
+
 
 The following dependency injection systems have passed the [TCK][release]:
 
@@ -35,6 +37,9 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanatolyza%2Fjavax-inject.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanatolyza%2Fjavax-inject?ref=badge_large)
 
 ## Project Members
 
